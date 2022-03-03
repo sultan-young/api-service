@@ -1,4 +1,4 @@
-import { ApiConfig, RequestConfig } from "../api";
+import { ApiConfig, RequestConfig } from "./api";
 
 export const mainApiConfig: ApiConfig = {
     host: 'http://localhost:1337',
